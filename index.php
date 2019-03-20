@@ -11,7 +11,7 @@
     
 <body>
 <?php
-require_once('mobile-detect/Mobile_Detect.php');
+require_once('Mobile_Detect.php');
 
 $mobile = new Mobile_Detect();
 
