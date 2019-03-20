@@ -37,11 +37,8 @@
 	}
 	document.write("<br>"+divice);
 	console.log("fin de logica" );
-	//return divice;
- 	
- 
- divice='iphone';
-	//------------------------------------------------
+	
+  
 
  
 fetch('http://35.226.148.54/grupo-paas', { 
