@@ -1,3 +1,3 @@
-COPY public/ /var/www/html/FROM php:7.0-apache
+FROM php:7.0-apache
 COPY public/ /var/www/html/
 EXPOSE 80
